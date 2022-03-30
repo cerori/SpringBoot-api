@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.model.response;
 
+import com.example.demo.model.response.CommonResult;
 import lombok.Getter;
 import lombok.Setter;
 

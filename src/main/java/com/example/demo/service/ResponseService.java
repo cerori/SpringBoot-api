@@ -1,8 +1,8 @@
 package com.example.demo.service;
 
-import com.example.demo.CommonResult;
-import com.example.demo.ListResult;
-import com.example.demo.SingleResult;
+import com.example.demo.model.response.CommonResult;
+import com.example.demo.model.response.ListResult;
+import com.example.demo.model.response.SingleResult;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.example.demo.advice;
+package com.example.demo.advice.exception;
 
 import com.example.demo.service.ResponseService;
 
